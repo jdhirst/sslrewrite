@@ -1,3 +1,3 @@
-module github.com/traefik/plugindemo
+module github.com/jdhirst/sslrewrite
 
 go 1.19

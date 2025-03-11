@@ -1,12 +1,9 @@
-displayName: Demo Plugin
+displayName: SSL Header Rewrite
 type: middleware
 iconPath: .assets/icon.png
 
-import: github.com/traefik/plugindemo
+import: github.com/jdhirst/sslrewrite
 
-summary: '[Demo] Add Request Header'
+summary: 'Sets the SSL_CLIENT_CERT header from the client cert.'
 
-testData:
-  Headers:
-    X-Demo: test
-    X-URL: '{{URL}}'
+testData: {}
