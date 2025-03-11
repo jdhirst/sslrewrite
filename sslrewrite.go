@@ -1,3 +1,4 @@
+// Package sslrewrite a plugin to properly write SSL_CLIENT_CERT for EJBCA.
 package sslrewrite
 
 import (
