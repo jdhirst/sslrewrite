@@ -1,6 +1,6 @@
 displayName: SSL Header Rewrite
 type: middleware
-iconPath: .assets/icon.png
+iconPath: ""
 
 import: github.com/jdhirst/sslrewrite
 
